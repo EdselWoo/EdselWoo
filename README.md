@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f2/36/43/f23643da0c98b064473f27d50e5cf872.gif" width="100%" alt="Cyberpunk Pixel" />
+</div>
 
 <!--
 **EdselWoo/EdselWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
