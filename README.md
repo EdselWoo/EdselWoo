@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f2/36/43/f23643da0c98b064473f27d50e5cf872.gif" width="100%" alt="Cyberpunk Pixel" />
+  <img src="https://github.com/EdselWoo/EdselWoo/blob/main/HongKongDoll3840x2565.jpg" width="100%" alt="My Banner" />
 </div>
+<br/>
+
 
 <!--
 **EdselWoo/EdselWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
