@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:3a3d4e,100:2b2d39&height=180&section=header&text=Coding%20Life&fontSize=70&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5D7BF7&background=FFFFFF00&width=435&lines=Same+shit%2C+different+day.)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github.com/EdselWoo/EdselWoo/blob/main/HongKongDoll3840x2565.jpg" width="100%" alt="My Banner" />
